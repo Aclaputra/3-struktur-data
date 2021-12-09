@@ -1,2 +1,3 @@
-# 3-struktur-data
-tugas 3 Struktur data C++
+# tugas-struktur-data
+Kumpulan Tugas Mata Kuliah Struktur Data
+
